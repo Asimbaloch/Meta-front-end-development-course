@@ -9,3 +9,13 @@ p {
     color: black;
     text-align: center;
 }
+
+#check {
+    color: aqua;
+}
+
+.navigation {
+    color: green;
+    margin: 2px;
+}
+
